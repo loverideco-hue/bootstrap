@@ -1,0 +1,152 @@
+ 
+'https://1drv.ms/w/c/293a38a42872107c/EZqEMGXBzbdEhhpbu7gJcJsBVJj9_yoWg1fsmU2_siyl4A'
+HTML (index.html): 
+
+<!DOCTYPE html> 
+
+<html lang="en"> 
+
+<head> 
+
+<meta charset="UTF-8"> 
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+<title>Looking Over Vast Eternity Ride Company</title> 
+
+<link rel="stylesheet" href="style.css"> 
+
+</head> 
+
+<body> 
+
+<div class="container"> 
+
+<header> 
+
+<h1>Looking Over Vast Eternity Ride Company</h1> 
+
+<h3>Your Journey to Knowledge and Style</h3> 
+
+</header> 
+
+<section id="about"> 
+
+<h2>About Us</h2> 
+
+<p><strong>Looking Over Vast Eternity Ride Company (LRC)</strong> is a San Dimas-based organization dedicated to empowering families in Los Angeles County through education, fashion, and hobbies. We believe that learning and self-expression go hand in hand. Our unique approach combines educational methods with custom fashion and engaging hobbies to inspire creativity and personal growth for everyone.</p> 
+
+</section> 
+
+<section id="what-we-do"> 
+
+<h2>What We Do</h2> 
+
+<p><strong>Educational Methods:</strong> We offer programs and resources designed to make learning fun and accessible for all ages. From interactive workshops to educational materials, our methods are crafted to spark curiosity and build a lifelong love for knowledge.</p> 
+
+<p><strong>Fashion & Hobbies:</strong> Our custom-designed apparel and curated hobby kits are more than just products; they are a form of self-expression. Each item is created to reflect a passion for learning and the world around us, allowing you to wear your curiosity and share your interests with pride.</p> 
+
+</section> 
+
+<section id="mission"> 
+
+<h2>Our Mission</h2> 
+
+<p>To merge education and fashion to inspire new perspectives and help individuals and families discover the vast beauty and complexity of the world.</p> 
+
+</section> 
+
+<section id="contact"> 
+
+<h2>Contact Us</h2> 
+
+<p><strong>Coach Pat G.</strong></p> 
+
+<p><strong>Phone:</strong> (213) 619-4828</p> 
+
+<p><strong>Headquarters:</strong><br> 
+
+1205 Cypress St<br> 
+
+San Dimas, CA 91773</p> 
+
+<p><strong>Serving Los Angeles County</strong></p> 
+
+</section> 
+
+</div> 
+
+</body> 
+
+</html> 
+
+CSS (style.css): 
+
+body { 
+
+backgroundimage:url’https://1drv.ms/w/c/293a38a42872107c/EZqEMGXBzbdEhhpbu7gJcJsBVJj9_yoWg1fsmU2_siyl4A’);https://1drv.ms/w/c/293a38a42872107c/EZqEMGXBzbdEhhpbu7gJcJsBVJj9_yoWg1fsmU2_siyl4 / background-size: cover; / Adjust as needed: contain, auto, etc. / 
+
+background-repeat: no-repeat; 
+
+background-attachment: fixed; / Optional: keeps the background fixed while scrolling / 
+
+color: #ffffff; / Adjust text color for better visibility / 
+
+font-family: sans-serif; 
+
+margin: 0; 
+
+padding-bottom: 50px; / / 
+
+} 
+
+.container { 
+
+background-color: rgba(0, 0, 0, 0.7); // 
+
+padding: 20px; 
+
+margin: 20px auto; 
+
+max-width: 800px; 
+
+border-radius: 10px; 
+
+} 
+
+header { 
+
+text-align: center; 
+
+padding-bottom: 20px; 
+
+border-bottom: 1px solid #ffffff; 
+
+margin-bottom: 20px; 
+
+} 
+
+section { 
+
+padding: 20px 0; 
+
+border-bottom: 1px solid #555; 
+
+} 
+
+section:last-child { 
+
+border-bottom: none; 
+
+} 
+
+h1, h2, h3 { 
+
+color: #ffffff; 
+
+} 
+
+/
+
+ 
+'https://1drv.ms/w/c/293a38a42872107c/EZqEMGXBzbdEhhpbu7gJcJsBVJj9_yoWg1fsmU2_siyl4A
